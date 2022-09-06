@@ -1,0 +1,7 @@
+name: Custom Timezone
+description: Module for implementing Custom Timezone to display time.
+core_version_requirement: ^8.8 || ^9
+package: Custom
+dependencies:
+- block
+type: module
